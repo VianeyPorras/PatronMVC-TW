@@ -9,6 +9,10 @@
 // & -> separador de variables 
 // %20 -> espacio en la url
 
+// Esto es un comentario de una linea 
+/* Esto tambien es un comentario*/
+
+
 $nombre = "Vianey";
 $edad = "24 años";
 $estatura = "1.48 cm";
